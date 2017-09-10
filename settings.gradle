@@ -1,0 +1,3 @@
+rootProject.name = "satori-bot-example-root"
+
+include 'java-streambot'
